@@ -1,0 +1,12 @@
+#ah-share-buttons a {
+    float: left;
+}
+#ah-share-buttons a+a {
+    margin-left: 5px;
+}
+#ah-share-buttons a img {
+    border-bottom: 1px solid #000;
+}
+#ah-share-buttons a:hover img {
+    border: 0px;
+}
